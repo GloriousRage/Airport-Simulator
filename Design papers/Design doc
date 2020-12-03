@@ -1,0 +1,14 @@
+Airport Simulator - Design Doc
+
+1. What is
+2. Why is
+3. How is (basic)
+4. Notes(?)
+
+1. This is an Airport Simulator - It has random plane generation of flights and landings, mapping of the moving planes
+   in house, and GUI for the pretty colors.
+2. To show of during interviews and stuff.
+3. A BE server runs and on it the app runs. One is the airport itself, another is the flight generator that inputs
+    incoming and outgoing flights by random instead of manual ones. And lastly there is an SQL DB to keep logs.
+4. Dunno lol
+
